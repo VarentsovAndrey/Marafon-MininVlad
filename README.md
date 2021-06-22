@@ -9,11 +9,11 @@
 
 ### Проекты
 
-* [Slider](https://varentsovandrey.github.io/BBBS/src/index.html) 
-* [Drag-and-Drop](https://varentsovandrey.github.io/BBBS/src/index.html) 
-* [Slider-Sidebar](https://varentsovandrey.github.io/BBBS/src/index.html)
-* [Board](https://varentsovandrey.github.io/BBBS/src/index.html)
-* [Aim-game](https://varentsovandrey.github.io/BBBS/src/index.html) 
+* [Slider](https://varentsovandrey.github.io/Marafon-MininVlad/01/index.html) 
+* [Drag-and-Drop](https://varentsovandrey.github.io/Marafon-MininVlad/02-drag-n-drop-sources/index.html) 
+* [Slider-Sidebar](https://varentsovandrey.github.io/Marafon-MininVlad/03-slider-sources/index.html)
+* [Board](https://varentsovandrey.github.io/Marafon-MininVlad/04-board-sources/index.html)
+* [Aim-game](https://varentsovandrey.github.io/Marafon-MininVlad/05-aim-game-sources/index.html)
 
 
 
